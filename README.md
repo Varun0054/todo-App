@@ -22,7 +22,10 @@ A simple and intuitive to-do list application for Android. It helps users organi
 
 | Login Screen | Main Dashboard | Task List |
 | :---: | :---: | :---: |
-| ![Login Screen](link-to-your-screenshot.png) | ![Main Dashboard](link-to-your-screenshot.png) | ![Task List](link-to-your-screenshot.png) |
+| ![WhatsApp Image 2026-02-14 at 4 19 19 PM](https://github.com/user-attachments/assets/582e2c72-da1f-48ac-8c97-8fa14fa0ef45)
+ | ![WhatsApp Image 2026-02-14 at 4 19 18 PM (1)](https://github.com/user-attachments/assets/969bdad9-57c2-4ebd-b126-0078980a371d)
+ | ![WhatsApp Image 2026-02-14 at 4 19 18 PM](https://github.com/user-attachments/assets/e67b91c3-af73-4d8e-8302-1f01c8b74d18)
+ |
 
 ## Technologies Used
 
